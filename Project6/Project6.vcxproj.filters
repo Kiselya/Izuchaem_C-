@@ -15,11 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Kontainer_count.cpp">
+    <ClCompile Include="Nahojdenie_min_stroki.cpp">
       <Filter>Header Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Palindrom.cpp">
-      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

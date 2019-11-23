@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Kontainer_count.cpp">
-      <Filter>Header Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Palindrom.cpp">
+    <ClCompile Include="NOD.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

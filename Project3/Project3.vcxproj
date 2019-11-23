@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{2E5A1135-3912-48F3-9F90-B0B333DCCC59}</ProjectGuid>
-    <RootNamespace>IzuchaemC</RootNamespace>
+    <ProjectGuid>{3A16F51C-8AC3-4F6E-AC1D-8865F69E3B49}</ProjectGuid>
+    <RootNamespace>Project3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,8 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Kontainer_count.cpp" />
-    <ClCompile Include="Palindrom.cpp" />
+    <ClCompile Include="prisvaivanie.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
